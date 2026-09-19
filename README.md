@@ -214,7 +214,7 @@ Encoder: Ridge uses OneHotEncoder for AreaGroup (correct for linear models); RF 
 
 **Joyti Das**  
 AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026 (BharatCares)  
-GitHub: [TODO: add your GitHub URL here]
+GitHub: https://github.com/JOYTI-DAS/Zomato-Bangalore-Restaurant-Analysis
 
 ---
 
