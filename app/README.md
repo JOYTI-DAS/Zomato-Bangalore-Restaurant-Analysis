@@ -54,7 +54,4 @@ app/
 
 ## Submission note
 
-This `app/` folder is **not part of the graded submission**.  The notebook
-(`JoytiDas_BangaloreRestaurantAnalysis.ipynb`), report, and cleaned data are
-unchanged.  This app is provided as an optional interactive companion for
-visitors to the GitHub repository.
+This `app/` folder is an optional extra and is not one of the four required submission files. The notebook (`JoytiDas_BangaloreRestaurantAnalysis.ipynb`), report, and cleaned data are unchanged. This app is provided as an optional interactive companion for visitors to the GitHub repository.
