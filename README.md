@@ -214,7 +214,7 @@ Encoder: Ridge uses OneHotEncoder for AreaGroup (correct for linear models); RF 
 
 **Joyti Das**  
 AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026 (BharatCares)  
-GitHub: https://github.com/JOYTI-DAS/Zomato-Bangalore-Restaurant-Analysis
+GitHub: [TODO: add your GitHub URL here]
 
 ---
 
@@ -223,3 +223,7 @@ GitHub: https://github.com/JOYTI-DAS/Zomato-Bangalore-Restaurant-Analysis
 - Dataset: vora1011, "Zomato Bangalore Restaurants 2022", Kaggle, 2022. https://www.kaggle.com/datasets/vora1011/zomato-bangalore-restaurants-2022
 - scikit-learn documentation: https://scikit-learn.org/stable/
 - pandas documentation: https://pandas.pydata.org/docs/
+
+## Optional Demo App
+A Streamlit app that estimates cost for two is included in the `app/` folder.
+To run it: `pip install -r app/requirements.txt`, then `streamlit run app/app.py`. See `app/README.md`.

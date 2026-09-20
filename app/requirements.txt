@@ -1,0 +1,15 @@
+# Requirements for the Streamlit demo app (app/app.py)
+# Tested with: streamlit==1.64.0, pandas==3.0.6, numpy==2.4.6,
+#              scikit-learn==1.9.1, matplotlib==3.11.2
+#
+# Install into the project .venv from the project root:
+#   .venv\Scripts\pip install -r app/requirements.txt
+#
+# Run from the project root:
+#   streamlit run app/app.py
+
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
